@@ -1,2 +1,2 @@
-# Cache_Simulator
-Write-back / write-allocate cache simulator. 
+# Cache Simulator
+Write-back / write-allocate cache simulator written in C++. 
